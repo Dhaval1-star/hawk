@@ -11817,3 +11817,14 @@ transition: all 0.5s ease-in-out;
 
 .card1:hover .site-button-link:before{background-color:#fff}
 
+
+
+/* uav pilot card start */
+
+.footer-most-top {
+    background: rgba(250, 250, 250, 0.7);
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+
+/* uav pilot card end */
